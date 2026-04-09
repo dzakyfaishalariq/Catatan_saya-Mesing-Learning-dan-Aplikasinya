@@ -6,5 +6,3 @@ Informasi yang ada terkai mesing learning dan aplikasinya:
 - Regresion (Linier & Logistik).
 - Generatif model & Naive Bayes.
 - Dimensionality reduction
-
-$$x_2 + x_1$$
