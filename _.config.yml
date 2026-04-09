@@ -1,3 +1,14 @@
+title: Nama Website Anda
+description: Deskripsi singkat website saya
+remote_theme: jekyll/minima
+
+# Konfigurasi Navigasi Navbar
+header_pages:
+  - index.md
+  - about.md
+  - projek.md
+  - kontak.md
+
 plugins:
   - jekyll-relative-links
 relative_links:
