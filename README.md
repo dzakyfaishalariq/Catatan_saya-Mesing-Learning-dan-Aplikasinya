@@ -7,3 +7,4 @@ Informasi yang ada terkai mesing learning dan aplikasinya:
 - Generatif model & Naive Bayes.
 - Dimensionality reduction
 
+$$x_2 + x_1$$
